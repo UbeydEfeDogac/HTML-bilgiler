@@ -1,0 +1,4 @@
+Session(oturum)larda cookieler gibi kullanıcı bilgilerinin tutuldugu bölümlerdir.
+Sessionların cookielerden en önemli farkları sessionlar kullanıcının bilgisayarında değil sunucuda tutulurlar. Böylece daha güvenlidirler.
+Sessionlar belli bir sürede aktif olarak kalamazlar. Kullanıcı sayfayı kapattığı anda session sona erer. 
+Ya da programcının bir çıkış bölümü yazması gerekmektedir.
